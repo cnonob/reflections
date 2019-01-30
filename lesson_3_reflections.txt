@@ -11,3 +11,9 @@ fork - remote to remote - modify a repo when we don't have privileges
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 can work offline, run diff to see changes
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+mail, share repo
+hard follow changes, solve conflicts
+have to manage different file versions
+
