@@ -17,3 +17,5 @@ mail, share repo
 hard follow changes, solve conflicts
 have to manage different file versions
 
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+test before commit
