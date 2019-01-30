@@ -8,3 +8,6 @@ Describe the differences between forks, clones, and branches. When would you use
 branches - local dir : new feature, test, langage
 clone - local dir or remote to local - full copy of code
 fork - remote to remote - modify a repo when we don't have privileges
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+can work offline, run diff to see changes
