@@ -4,3 +4,7 @@ Collabarate with others, work from an another computer
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 control when to do it, and what changes we pulled
 
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+branches - local dir : new feature, test, langage
+clone - local dir or remote to local - full copy of code
+fork - remote to remote - modify a repo when we don't have privileges
